@@ -1,0 +1,6 @@
+platform :ios, '11.0'
+inhibit_all_warnings!
+
+target 'Regression' do
+  pod 'Lottie', :podspec => 'Lottie.podspec'
+end

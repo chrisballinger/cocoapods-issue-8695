@@ -1,0 +1,16 @@
+PODS:
+  - Lottie (3.0.4)
+
+DEPENDENCIES:
+  - Lottie (from `Lottie.podspec`)
+
+EXTERNAL SOURCES:
+  Lottie:
+    :podspec: Lottie.podspec
+
+SPEC CHECKSUMS:
+  Lottie: 4f5c8dc73f3fe7d9bb997e8fa2efbe9a3ba8009a
+
+PODFILE CHECKSUM: 34e7a485d7ce4855faf9dd7f97d3b4a1ce07e476
+
+COCOAPODS: 1.7.0.beta.3
